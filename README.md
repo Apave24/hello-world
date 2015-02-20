@@ -1,2 +1,4 @@
-# hello-world
-first repository as a github member
+hello-world
+===========
+
+Readme lets people know the programs purpose
